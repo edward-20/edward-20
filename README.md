@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I broke my left arm when I was a kid.
 
+### React Knowledge (version 18)
+#### API
+- [ ] `act`
+- [x] `createContext`
+- [ ] `forwardRef`
+- [x] `lazy`
+- [x] `memo`
+- [x] `startTransition`
+#### Hooks
+##### State
+- [x] `useState`
+- [ ] `useReducer`
+##### Context
+- [x] `useContext`
+##### Ref
+- [ ] `useRef`
+- [ ] `useImperativeHandle`
+##### Effect
+- [ ] `useEffect`
+- [ ] `useLayoutEffect`
+- [ ] `useInsertionEffect`
+##### Performance
+- [ ] `useMemo`
+- [x] `useCallback`
+- [ ] `useTransition`
+- [ ] `useDeferredValue`

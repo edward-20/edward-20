@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 - [ ] `useRef`
 - [ ] `useImperativeHandle`
 ##### Effect
-- [ ] `useEffect`
+- [x] `useEffect`
 - [ ] `useLayoutEffect`
 - [ ] `useInsertionEffect`
 ##### Performance
-- [ ] `useMemo`
+- [x] `useMemo`
 - [x] `useCallback`
-- [ ] `useTransition`
-- [ ] `useDeferredValue`
+- [x] `useTransition`
+- [x] `useDeferredValue`

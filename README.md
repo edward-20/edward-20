@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I broke my left arm when I was a kid.
 
 ### React Knowledge (version 18)
+#### Components
+- [ ] `Profiler`
+- [ ] `Suspense`
 #### API
 - [ ] `act`
 - [x] `createContext`

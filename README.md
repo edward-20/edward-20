@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I broke my left arm when I was a kid.
 
+[Here's my resume](./edward-12.pdf)
 ### React Knowledge (version 18)
 #### Components
 - [ ] `Profiler`

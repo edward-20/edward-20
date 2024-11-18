@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a journal web application and COOL Compiler.
+- 🔭 I’m currently working on a COOL Compiler.
 - 🌱 I’m currently learning Typescript.
 - 👯 I’m looking to collaborate on anything and everything.
 - 🤔 I’m looking for help with climbing.

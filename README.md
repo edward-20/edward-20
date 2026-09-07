@@ -5,42 +5,15 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a COOL Compiler.
-- 🌱 I’m currently learning Typescript.
+- 🔭 I’m currently working on an Australian Grocery Prices Tracker.
+- 🌱 I’m currently learning Typescript and hoping to complete the [type
+  challenges](https://github.com/type-challenges/type-challenges)
 - 👯 I’m looking to collaborate on anything and everything.
-- 🤔 I’m looking for help with climbing.
+- 🤔 I’m looking for help with my [Grocery Price
+  Tracker](https://github.com/edward-20/Grocery-Tracker).
 - 💬 Ask me about anything. I'll try my best to help :)
 - 📫 How to reach me: ed.lim199@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I broke my left arm when I was a kid.
 
 [Here's my resume](./edward.pdf)
-### React Knowledge (version 18)
-#### Components
-- [ ] `Profiler`
-- [ ] `Suspense`
-#### API
-- [ ] `act`
-- [x] `createContext`
-- [ ] `forwardRef`
-- [x] `lazy`
-- [x] `memo`
-- [x] `startTransition`
-#### Hooks
-##### State
-- [x] `useState`
-- [ ] `useReducer`
-##### Context
-- [x] `useContext`
-##### Ref
-- [ ] `useRef`
-- [ ] `useImperativeHandle`
-##### Effect
-- [x] `useEffect`
-- [ ] `useLayoutEffect`
-- [ ] `useInsertionEffect`
-##### Performance
-- [x] `useMemo`
-- [x] `useCallback`
-- [x] `useTransition`
-- [x] `useDeferredValue`
